@@ -89,6 +89,12 @@
 			<version>4.2.0.Final</version>
 		</dependency>
 
+		<!-- validation -->
+		<dependency>
+			<groupId>javax.validation</groupId>
+			<artifactId>validation-api</artifactId>
+		</dependency>
+		
 		<!-- common fileupload -->
 		<dependency>
 			<groupId>commons-fileupload</groupId>
